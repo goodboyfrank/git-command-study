@@ -11,6 +11,12 @@ function App() {
         <p>
           Edit <code>src/App.js</code> 
         </p>
+        <p>
+          Edit <code>src/App.js</code> 
+        </p>
+        <p>
+          Edit <code>src/App.js</code> 
+        </p>
       </header>
     </div>
   );
