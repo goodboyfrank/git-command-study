@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 
 const Home= ()=>{
-  return <div>last</div>
+  return <div>
+    <div>dafda</div>
+  </div>
 }
 export default Home
